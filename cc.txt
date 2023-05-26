@@ -1,0 +1,38 @@
+2.Preacticle
+
+-> gcloud init
+-> 1
+-> git clone https://github.com/GoogleCloudPlatform/python-docs-samples
+-> ls
+-> cd python-docs-samples/
+-> cd appengine/standard/hello_world
+-> ls
+-> dev_appserver.py app.yaml
+---------------------------------------------------------------------------------
+3.Practicle
+
+public class FirstClass1
+{	
+	public static void firstMethod()
+	{
+		System.debug('Welcome to sandip foundation');
+	}
+}
+
+debug: FirstClass1.firstMethod();
+-----------------------------------------------------------------------------
+Decimal num1 = 5; // First number
+Decimal num2 = 10; // Second number
+
+Decimal sum = num1 + num2; // Addition operation
+
+System.debug('The sum of ' + num1 + ' and ' + num2 + ' is: ' + sum);
+-------------------------------------------------------------------------------
+
+4.Practicle
+ 
+step1) Open App Launcher  View all ( Quick Search  App Manager)  Click on New
+Lightning App
+
+step2) Search Your App by its name in App Launcher  just by entering some character, you can see app name with its logo  Click on App  you can see your application appearance in window  Output.
+-------------------------------------------------------------------------------
