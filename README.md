@@ -1,2 +1,2 @@
-# sem6
+# computer engineering sem6 
 code ai 
